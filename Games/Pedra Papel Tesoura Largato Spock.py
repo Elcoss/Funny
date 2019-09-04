@@ -1,6 +1,7 @@
 //Sao importados as bibliotecas
 from random import randint
 from time import sleep
+
 //Aqui sao mostradas as escolhas possiveis
 print('''Suas Escolhas:
 [ 0 ] Pedra
